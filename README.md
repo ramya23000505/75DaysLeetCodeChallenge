@@ -1,4 +1,4 @@
-# 75DaysLeetCodeChallenge
+# LeetCode-Challenge DSA
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
