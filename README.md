@@ -41,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
+| [0984-string-without-aaa-or-bbb](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0984-string-without-aaa-or-bbb/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -88,4 +89,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0984-string-without-aaa-or-bbb](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0984-string-without-aaa-or-bbb/) | Medium |
 <!---LeetCode Topics End-->
