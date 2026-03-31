@@ -15,7 +15,7 @@ class Solution {
 
             } else {
 
-                if (a >= b && a > 0) {
+                if (a >= b) {
                     res.append('a');
                     a--;
                 } else if (b > 0) {
