@@ -56,6 +56,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1518-water-bottles](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 ## Simulation
