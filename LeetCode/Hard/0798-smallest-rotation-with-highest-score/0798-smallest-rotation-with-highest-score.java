@@ -1,15 +1,32 @@
 class Solution {
     public int bestRotation(int[] nums) {
-        int N = nums.length;
-        int change[] = new int[N];
-        for (int i = 0; i < N; ++i){
-            change[(i - nums[i] + 1 + N) % N] -= 1;
-        } 
-        int max_i = 0;
-        for (int i = 1; i < N; ++i) {
-            change[i] += change[i - 1] + 1;
-            max_i = change[i] > change[max_i] ? i : max_i;
+        int n = nums.length;
+        int[] dif = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            int left = (i - nums[i] + 1 + n) % n;
+            int right = (i + 1) % n;
+
+            dif[left]--;
+            dif[right]++;
+
+            if (left > right) {
+                dif[0]--;
+            }
         }
-        return max_i;
+
+        int best = 0;
+        int score = 0;
+        int maxScore = 0;
+
+        for (int k = 1; k < n; k++) {
+            score += dif[k];
+            if (score > maxScore) {
+                maxScore = score;
+                best = k;
+            }
+        }
+
+        return best;
     }
 }
