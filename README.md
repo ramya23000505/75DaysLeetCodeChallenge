@@ -46,6 +46,7 @@
 | [0038-count-and-say](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0087-scramble-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0087-scramble-string/) | Hard |
 | [0125-valid-palindrome](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0299-bulls-and-cows/) | Medium |
@@ -125,6 +126,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
+| [0087-scramble-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0087-scramble-string/) | Hard |
 | [0509-fibonacci-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0887-super-egg-drop](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0887-super-egg-drop/) | Hard |
 ## Recursion
