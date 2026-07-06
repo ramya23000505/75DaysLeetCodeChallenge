@@ -1,29 +1,25 @@
 class Solution {
     public String strWithout3a3b(int a, int b) {
-        StringBuilder res = new StringBuilder();
-        while (a > 0 || b > 0) {
-            int n = res.length();
-            if (n >= 2 && res.charAt(n - 1) == res.charAt(n - 2)) {
-
-                if (res.charAt(n - 1) == 'a') {
-                    res.append('b');
-                    b--;
-                } else {
-                    res.append('a');
-                    a--;
-                }
-
-            } else {
-
-                if (a >= b ) {
-                    res.append('a');
-                    a--;
-                } else  {
-                    res.append('b');
-                    b--;
-                }
+        StringBuilder sb = new StringBuilder();
+        while(a>0 || b>0){
+            int n= sb.length();
+            if(n>=2 && sb.charAt(n-1)=='b' && sb.charAt(n-2)=='b'){
+                sb.append('a');
+                a--;
+            }
+            else if(n>=2 && sb.charAt(n-1)=='a' && sb.charAt(n-2)=='a'){
+                sb.append('b');
+                b--;
+            }
+            else if(a>b){
+                sb.append('a');
+                a--;
+            } 
+            else{
+                sb.append('b');
+                b--;
             }
         }
-        return res.toString();
+        return sb.toString();
     }
-}
+} 
