@@ -32,6 +32,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0726-number-of-atoms](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0726-number-of-atoms/) | Hard |
 | [0854-k-similar-strings](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0854-k-similar-strings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@
 | [0506-relative-ranks](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [0726-number-of-atoms](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0726-number-of-atoms/) | Hard |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -62,6 +64,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
 | [0591-tag-validator](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0591-tag-validator/) | Hard |
+| [0726-number-of-atoms](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0726-number-of-atoms/) | Hard |
 | [0854-k-similar-strings](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0854-k-similar-strings/) | Hard |
 | [0984-string-without-aaa-or-bbb](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0984-string-without-aaa-or-bbb/) | Medium |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -91,6 +94,7 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0591-tag-validator](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0591-tag-validator/) | Hard |
+| [0726-number-of-atoms](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0726-number-of-atoms/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
