@@ -67,6 +67,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [0434-number-of-segments-in-a-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0434-number-of-segments-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0459-repeated-substring-pattern/) | Easy |
+| [0466-count-the-repetitions](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0466-count-the-repetitions/) | Hard |
 | [0591-tag-validator](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0591-tag-validator/) | Hard |
 | [0726-number-of-atoms](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0726-number-of-atoms/) | Hard |
 | [0854-k-similar-strings](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0854-k-similar-strings/) | Hard |
@@ -113,6 +114,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0345-reverse-vowels-of-a-string/) | Easy |
+| [0466-count-the-repetitions](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0466-count-the-repetitions/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@
 | [0044-wildcard-matching](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0087-scramble-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0087-scramble-string/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0466-count-the-repetitions](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0466-count-the-repetitions/) | Hard |
 | [0509-fibonacci-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0887-super-egg-drop](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0887-super-egg-drop/) | Hard |
 ## Recursion
