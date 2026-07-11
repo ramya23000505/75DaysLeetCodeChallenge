@@ -21,6 +21,7 @@
 | [0798-smallest-rotation-with-highest-score](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0798-smallest-rotation-with-highest-score/) | Hard |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1701-average-waiting-time](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/1701-average-waiting-time/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1518-water-bottles](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
+| [1701-average-waiting-time](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/1701-average-waiting-time/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
