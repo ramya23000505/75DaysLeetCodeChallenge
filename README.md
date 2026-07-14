@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0198-house-robber](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -166,6 +167,7 @@
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0087-scramble-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0087-scramble-string/) | Hard |
+| [0198-house-robber](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0466-count-the-repetitions](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0466-count-the-repetitions/) | Hard |
 | [0509-fibonacci-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
