@@ -28,6 +28,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1701-average-waiting-time](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/1701-average-waiting-time/) | Medium |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/2163-minimum-difference-in-sums-after-removal-of-elements/) | Hard |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@
 | [0984-string-without-aaa-or-bbb](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0984-string-without-aaa-or-bbb/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3330-find-the-original-typed-string-i](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/3330-find-the-original-typed-string-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
