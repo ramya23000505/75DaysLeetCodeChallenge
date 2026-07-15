@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0506-relative-ranks](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0506-relative-ranks/) | Easy |
+| [0546-remove-boxes](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0546-remove-boxes/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0699-falling-squares](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0699-falling-squares/) | Hard |
@@ -174,6 +175,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0466-count-the-repetitions](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0466-count-the-repetitions/) | Hard |
 | [0509-fibonacci-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0546-remove-boxes](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0546-remove-boxes/) | Hard |
 | [0887-super-egg-drop](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0887-super-egg-drop/) | Hard |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/2163-minimum-difference-in-sums-after-removal-of-elements/) | Hard |
 ## Recursion
@@ -185,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0546-remove-boxes](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0546-remove-boxes/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
