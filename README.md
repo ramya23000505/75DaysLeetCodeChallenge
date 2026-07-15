@@ -21,6 +21,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0699-falling-squares](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0699-falling-squares/) | Hard |
+| [0741-cherry-pickup](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0798-smallest-rotation-with-highest-score](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0798-smallest-rotation-with-highest-score/) | Hard |
 | [1094-car-pooling](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/1094-car-pooling/) | Medium |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0741-cherry-pickup](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@
 | [0466-count-the-repetitions](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0466-count-the-repetitions/) | Hard |
 | [0509-fibonacci-number](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0546-remove-boxes](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0546-remove-boxes/) | Hard |
+| [0741-cherry-pickup](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0741-cherry-pickup/) | Hard |
 | [0887-super-egg-drop](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0887-super-egg-drop/) | Hard |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/2163-minimum-difference-in-sums-after-removal-of-elements/) | Hard |
 ## Recursion
