@@ -30,6 +30,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0205-isomorphic-strings](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -63,6 +64,7 @@
 | [0038-count-and-say](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0076-minimum-window-substring](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0087-scramble-string/) | Hard |
 | [0125-valid-palindrome](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0205-isomorphic-strings/) | Easy |
@@ -132,6 +134,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 ## Heap (Priority Queue)
