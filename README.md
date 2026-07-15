@@ -46,6 +46,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0726-number-of-atoms](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0726-number-of-atoms/) | Hard |
 | [0854-k-similar-strings](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0854-k-similar-strings/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 | [0844-backspace-string-compare](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0844-backspace-string-compare/) | Easy |
 | [0854-k-similar-strings](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0854-k-similar-strings/) | Hard |
 | [0984-string-without-aaa-or-bbb](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0984-string-without-aaa-or-bbb/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -173,6 +175,7 @@
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0299-bulls-and-cows/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
